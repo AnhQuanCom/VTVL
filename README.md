@@ -1,6 +1,6 @@
-# ZEDTAF
+# How to run the test
 
-ZED TEST AUTOMATION FRAMEWORK
+
 
 ## Installation
 
@@ -15,20 +15,21 @@ git clone ....
 ```cmd
 
 # Install dependencies
-npm install
+
+yarn add
 
 # Run all the tests
-npm run test
+
+yarn playwright test
 
 # Generated the Allure Report
 allure generate
 ```
 
-## Contributing
+## How to approach solutions
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+please watch the demo video
 
-Please make sure to update tests as appropriate.
 
 ## License
 
