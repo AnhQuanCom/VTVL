@@ -1,0 +1,47 @@
+{
+  "name": "zed-test-automation",
+  "version": "3.0.0",
+  "description": "Running tests using Playwright Test.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "VHS Lab",
+  "keywords": [
+    "jest",
+    "playwright",
+    "jest-playwright",
+    "jest-playwright-preset"
+  ],
+  "repository": {
+    "url": "https://github.com/vhslab/qa-automationtest.git",
+    "type": "git"
+  },
+  "homepage": "https://vhslab.github.io/qa-automationtest/",
+  "scripts": {
+    "test:all": "npx playwright test --reporter=list --max-failures 5",
+    "test": "npx playwright test --reporter=list"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.22.2",
+    "@types/fs-extra": "^9.0.13",
+    "expect-playwright": "^0.8.0",
+    "playwright-core": "^1.20.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "cd": "^0.3.3",
+    "clipboardy": "^3.0.0",
+    "config": "^3.3.7",
+    "crx": "^5.0.1",
+    "faker": "^5.5.3",
+    "fs": "0.0.1-security",
+    "fs-extra": "^10.0.1",
+    "pixelmatch": "^5.2.1",
+    "playwright": "^1.22.2",
+    "playwright-chromium": "^1.22.2",
+    "playwright-cli": "^0.180.0",
+    "pngjs": "^6.0.0",
+    "superagent-retry-delay": "^2.6.5",
+    "supertest": "^6.2.2",
+    "uuid": "^8.3.2"
+  }
+}

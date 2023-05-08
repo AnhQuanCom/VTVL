@@ -1,0 +1,2 @@
+2022/06/09-20:45:44.900 db03 Creating DB /Users/anhdefi/qa-automationtest/fixtures/test-user-data-dir/8a032b3e5524e104bf66/Default/shared_proto_db/metadata since it was missing.
+2022/06/09-20:45:45.021 db03 Reusing MANIFEST /Users/anhdefi/qa-automationtest/fixtures/test-user-data-dir/8a032b3e5524e104bf66/Default/shared_proto_db/metadata/MANIFEST-000001

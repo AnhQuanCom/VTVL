@@ -1,0 +1,3 @@
+2022/06/09-20:43:47.097 1c03 Reusing MANIFEST /Users/anhdefi/qa-automationtest/fixtures/test-user-data-dir/e2368d645c683cfedf84/Default/IndexedDB/https_e.widgetbot.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/09-20:43:47.097 1c03 Recovering log #3
+2022/06/09-20:43:47.097 1c03 Reusing old log /Users/anhdefi/qa-automationtest/fixtures/test-user-data-dir/e2368d645c683cfedf84/Default/IndexedDB/https_e.widgetbot.io_0.indexeddb.leveldb/000003.log 

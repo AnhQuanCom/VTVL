@@ -1,0 +1,2 @@
+2022/06/09-20:43:20.514 14803 Creating DB /Users/anhdefi/qa-automationtest/fixtures/test-user-data-dir/52c4923a9fcc5673c834/Default/Sync Data/LevelDB since it was missing.
+2022/06/09-20:43:20.666 14803 Reusing MANIFEST /Users/anhdefi/qa-automationtest/fixtures/test-user-data-dir/52c4923a9fcc5673c834/Default/Sync Data/LevelDB/MANIFEST-000001

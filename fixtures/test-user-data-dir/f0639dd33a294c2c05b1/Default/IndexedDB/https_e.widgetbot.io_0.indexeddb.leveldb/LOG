@@ -1,0 +1,2 @@
+2022/06/09-20:47:25.901 12603 Creating DB /Users/anhdefi/qa-automationtest/fixtures/test-user-data-dir/f0639dd33a294c2c05b1/Default/IndexedDB/https_e.widgetbot.io_0.indexeddb.leveldb since it was missing.
+2022/06/09-20:47:25.960 12603 Reusing MANIFEST /Users/anhdefi/qa-automationtest/fixtures/test-user-data-dir/f0639dd33a294c2c05b1/Default/IndexedDB/https_e.widgetbot.io_0.indexeddb.leveldb/MANIFEST-000001
