@@ -28,11 +28,15 @@ allure generate
 
 ## How to approach solutions
 
-Step 1: Learn how a browser works with a chrome extension. The result is this website https://playwright.dev/docs/chrome-extensions
-Step 2: After having the solution from step 1, I installed the CRX extension and downloaded the CRX metamask folder
-Step 3: I proceed to design how the extension works in the file metamask fixture
-step 4. I started storing the locators in the POM . file
-Step 5. Test design
+#Step 1: Learn how a browser works with a chrome extension. The result is this website https://playwright.dev/docs/chrome-extensions
+
+#Step 2: After having the solution from step 1, I installed the CRX extension and downloaded the CRX metamask folder
+
+#Step 3: I proceed to design how the extension works in the file metamask fixture
+
+#step 4. I started storing the locators in the POM . file
+
+#Step 5. Test design
 
 
 ## License
