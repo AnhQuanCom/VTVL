@@ -16,7 +16,7 @@ git clone ....
 
 # Install dependencies
 
-yarn add
+yarn
 
 # Run all the tests
 
